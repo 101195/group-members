@@ -1,0 +1,40 @@
+body{
+	background-color: orange;
+	background-repeat: no-repeat;
+	font-family: 'Great Vibes', cursive;
+}
+#header{
+	margin-top: -15px;
+	height: 50px;
+}
+#header ul{
+	text-decoration: none;
+	text-align: center;
+}
+#header ul li{
+	display: inline-block;
+	text-decoration: none;
+}
+#header ul li a{
+	text-decoration: none;
+	padding: 30px;
+	color: black;
+}
+#header ul li:hover{
+	font-size: 30px;
+	transition: all .3s;
+}
+#login{
+	background-color:#fff;
+	height: 450px;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-top: 100px;
+}
+#login img{
+	height: 150px;
+	margin-top: 20px;
+}
+.box{
+	margin: 20px;
+}

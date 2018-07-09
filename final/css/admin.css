@@ -1,0 +1,27 @@
+body{
+	font-family: 'Great Vibes', cursive;
+}
+#header{
+	background-color: orange;
+}
+.header ul{
+	display: inline-block;
+	text-decoration: none;
+}
+.header ul li{
+	list-style: none;
+	display: inline-block;
+}
+.header ul li a{
+	text-decoration: none;
+	margin: 45px;
+	font-size: 25px;
+	color: black;
+}
+.header ul li:hover{
+	background-color: white;
+}
+#cont input{
+	margin:20px;
+
+}

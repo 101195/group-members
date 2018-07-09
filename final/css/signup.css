@@ -1,0 +1,65 @@
+body{
+	background-color: orange;
+}
+#signin{
+	height: 635px;
+}
+#signin2 {
+	text-align: center;
+	padding:50px;
+}
+#signin2 input{
+	padding: 10px;
+	margin: 10px;
+}
+#header ul{
+	text-align: center;
+	text-decoration: none;
+}
+#header ul li{
+	display:inline-block;
+	margin:-10px;
+}
+#header ul li a{
+	text-decoration: none;
+	padding: 30px;
+	color: black;
+}
+#header{
+	background-color: orange;
+}
+#header ul li:hover{
+	font-size: 20px;
+	transition: all .3s;
+}
+#top{
+	background:orange;
+	height: 40px;
+	width: 100%;
+	position: fixed;
+	margin-top: -18px;
+}
+#top ul{
+	text-decoration: none;
+	text-align: right;
+}
+#top ul li{
+	text-decoration: none;
+	display: inline-block;
+}
+#top ul li a{
+	text-decoration: none;
+	padding:10px;
+	color: black;
+}
+#top ul li:hover{
+	font-size: 20px;
+	transition: all .3s;
+}
+#top input{
+	background:black;
+	color: black;
+}
+.return{
+	color: orange;
+}
