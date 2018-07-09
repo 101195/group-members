@@ -33,10 +33,10 @@
 			</ul>
 		</div>
 		<div class="prod-box">
-			<img src="<?php echo '<img src="'.$image.'"';  ?>" alt="accessories">
+			<img src="image/men2.jpg" alt="men">
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -46,7 +46,7 @@
 			<img src="<?php echo $image;  ?>" alt="men-suit" height="280px";>
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -56,7 +56,7 @@
 			<img src="<?php echo $image;  ?>" alt="men-suit" height="280px";>
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -66,7 +66,7 @@
 			<img src="image/men5.jpg" alt="men-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -76,17 +76,17 @@
 			<img src="image/men6.jpg" alt="men-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
 				</div>
 		</div>
 		<div class="prod-box">
-			<img src=image/men8.jpg" alt="accessories">
+			<img src=image/men8.jpg" alt="men">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -96,7 +96,7 @@
 			<img src="image/men2.jpg" alt="accessories">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -106,7 +106,7 @@
 			<img src="image/men9.jpg" alt="men-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Men Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>

@@ -33,15 +33,7 @@
      </div>
   </div>
   <div id="header">
-    <ul>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Help Center</a></li>
-      <li><a href="#">Status</a></li>
-      <li><a href="#">Brand</a></li>
-      <li><a href="#">Business</a></li>
-      <li><a href="#">Blog</a></li>
-      <li><a href="#">Terms</a></li>
-    </ul>
+    
   </div>
   </div>
   <script src="js/index.js"></script>

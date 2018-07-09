@@ -27,7 +27,7 @@ $row = mysqli_fetch_array($result);
 			<img src="<?=$row['image']?>" width="175" height="200" alt="accessories"/>
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -37,7 +37,7 @@ $row = mysqli_fetch_array($result);
 			<img src="<?php echo $image;  ?>" alt="women-suit" height="280px";>
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -47,7 +47,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women.jpg" style="height: 300px">
 			 	<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -57,7 +57,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women5.jpg" alt="women-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -67,7 +67,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women6.jpg" alt="women-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -77,7 +77,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women8.jpg" alt="accessories">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -87,7 +87,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women2.jpg" alt="accessories">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<input type="button" value="Add to Cart" >
 					</div>
@@ -97,7 +97,7 @@ $row = mysqli_fetch_array($result);
 			<img src="image/women9.jpg" alt="men-suit">
 				<div class="prod-trans">
 					<div class="prod-feature">
-						<p>Kids Special Dress</p>
+						<p>Women Special Dress</p>
 						<p style="color: #fff; font-weight: bold;">Price: $8</p>
 						<a href=""><input type="button" value="Add to Cart" ></a>
 					</div>

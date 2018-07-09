@@ -27,7 +27,7 @@
 				<li class="right"> <a href="index.php">Logout</a></li>
 			</ul>
 			
-
+      
 			<div id="box"><p id="number">0</p></div>
 			
 		</div>	
@@ -47,7 +47,7 @@
 			</div>
 			<!--first cartegory-->
 			<a href="men1.php">
-				<div class="catbox">
+				<div class="catbox">b
 					<img src="image/men4.jpg" alt="Men-Fashion">
 					<span>Men Fashion</span>
 				</div>
@@ -323,7 +323,7 @@
 						<h2>Important Links</h2>
 						<ul>
 							<li><a href="#">Home</a></li>
-							<li><a href="#">New Arrivals</a></li>
+							<li><a href="neworders.php">New Arrivals</a></li>
 							<li><a href="#">Deals</a></li>
 							<li><a href="#">Cloths</a></li>
 							<li><a href="accessories.php">Accessories</a></li>
@@ -384,7 +384,7 @@
     	myIndex++;
     	if (myIndex > x.length) {myIndex = 1}    
     	x[myIndex-1].style.display = "block";  
-    	setTimeout(carousel, 5000); // Change image every 5 seconds
+    	setTimeout(carousel, 3000); // Change image every 5 seconds
 		}
 	</script>
 
